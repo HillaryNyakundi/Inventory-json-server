@@ -1,0 +1,40 @@
+{
+  "products": [
+    {
+      "name": "Samsung Galaxy 15F",
+      "brand": "Samsung",
+      "category": "Phones",
+      "price": "480",
+      "describtion": "Smartphone",
+      "createdAt": "2023-03-07",
+      "id": 1
+    },
+    {
+      "name": "Dell Latitude",
+      "brand": "Dell L12",
+      "category": "other",
+      "price": "1300",
+      "describtion": "",
+      "createdAt": "2023-11-16",
+      "id": 3
+    },
+    {
+      "name": "iphone 14",
+      "brand": "Iphone",
+      "category": "other",
+      "price": "999",
+      "describtion": "New smartPhone",
+      "createdAt": "2023-11-17",
+      "id": 4
+    },
+    {
+      "name": "Oppo reno12",
+      "brand": "Oppo",
+      "category": "other",
+      "price": "1200",
+      "describtion": "Latest Oppo phone",
+      "createdAt": "2023-11-18",
+      "id": 5
+    }
+  ]
+}
